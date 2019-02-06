@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # First Ever Website
 #### My website literally does nothing. It was created as practice for class. 02/06/2019
 #### By **Philip Kairu**
